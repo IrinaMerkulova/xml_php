@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tooded>
+  <toode>
+    <nimi>Diivan</nimi>
+    <hind>520</hind>
+    <varv>sinine</varv>
+    <lisad>
+      <nimi>Padjad</nimi>
+      <suurus>20x40</suurus>
+    </lisad>
+  </toode>
+  <toode>
+    <nimi>Voodi</nimi>
+    <hind>600</hind>
+    <varv>punane</varv>
+    <lisad>
+      <nimi>Padjad</nimi>
+      <suurus>20x40</suurus>
+    </lisad>
+  </toode>
+  <toode>
+    <nimi>Tugitool</nimi>
+    <hind>200</hind>
+    <varv>kollane</varv>
+    <lisad>
+      <nimi>Padjad</nimi>
+      <suurus>20x40</suurus>
+    </lisad>
+  </toode>
+  <toode>
+    <nimi>Kapp</nimi>
+    <hind>5200</hind>
+    <varv>must</varv>
+    <lisad>
+      <nimi>Kapikesed</nimi>
+      <suurus>100</suurus>
+    </lisad>
+  </toode>
+  <toode>
+    <nimi>ww</nimi>
+    <hind>ww</hind>
+    <varv/>
+    <lisad>
+      <nimi>w</nimi>
+    </lisad>
+  </toode>
+</tooded>
